@@ -19,6 +19,13 @@ namespace PotterShoppingCart.Tests
             };
             int price = 100;
 
+            var Total = 100;
+
+            //act
+            var actual = BookLists[0].BookCount * price;
+
+            //assert
+            Assert.AreEqual(Total, actual);
         }
     }
     public class BookList

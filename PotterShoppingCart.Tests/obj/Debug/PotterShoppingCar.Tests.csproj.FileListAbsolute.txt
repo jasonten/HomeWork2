@@ -1,0 +1,5 @@
+C:\TOOL\TDD課程用軟件\day2-lab-source\day2-homework\PotterShoppingCart\PotterShoppingCart.Tests\bin\Debug\PotterShoppingCart.Tests.dll
+C:\TOOL\TDD課程用軟件\day2-lab-source\day2-homework\PotterShoppingCart\PotterShoppingCart.Tests\bin\Debug\PotterShoppingCart.Tests.pdb
+C:\TOOL\TDD課程用軟件\day2-lab-source\day2-homework\PotterShoppingCart\PotterShoppingCart.Tests\obj\Debug\PotterShoppingCar.Tests.csprojResolveAssemblyReference.cache
+C:\TOOL\TDD課程用軟件\day2-lab-source\day2-homework\PotterShoppingCart\PotterShoppingCart.Tests\obj\Debug\PotterShoppingCart.Tests.dll
+C:\TOOL\TDD課程用軟件\day2-lab-source\day2-homework\PotterShoppingCart\PotterShoppingCart.Tests\obj\Debug\PotterShoppingCart.Tests.pdb
